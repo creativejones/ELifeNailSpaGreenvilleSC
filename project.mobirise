@@ -242,7 +242,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<b>ADDRESS<br></b>1025 Woodruff Rd\n<br>Ste D04\n<br>Greenville, SC 29607<b><br><br>\nCONTACTS<br>\nYELP<br>\nPhone: +1&nbsp;</b>(919) 576-0324<b><br></b><br>",
+          "text1": "<b>ADDRESS<br></b>1025 Woodruff Rd\n<br>Ste D04\n<br>Greenville, SC 29607<b><br><br>\nCONTACTS<br>\n<a href=\"https://www.yelp.com/biz/elife-nail-spa-greenville\" target=\"_blank\">YELP</a><br>\nPhone: +1&nbsp;</b>(919) 576-0324<b><br></b><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-info\" href=\"http://www.creativejmllc.com/\" target=\"_blank\">Website builder</a></li><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -432,7 +432,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<b>ADDRESS<br></b>1025 Woodruff Rd\n<br>Ste D04\n<br>Greenville, SC 29607<b><br><br>\nCONTACTS<br>\nYELP<br>\nPhone: +1&nbsp;</b>(919) 576-0324<b><br></b><br>",
+          "text1": "<b>ADDRESS<br></b>1025 Woodruff Rd\n<br>Ste D04\n<br>Greenville, SC 29607<b><br><br>\nCONTACTS<br>\n<a href=\"https://www.yelp.com/biz/elife-nail-spa-greenville\" target=\"_blank\">YELP</a><br>\nPhone: +1&nbsp;</b>(919) 576-0324<b><br></b><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-info\" href=\"http://www.creativejmllc.com/\" target=\"_blank\">Website builder</a></li><li><br></li></ul>",
           "_tags": [
             "Theme"
