@@ -138,6 +138,10 @@
             },
             ".mbr-article": {
               "color": "#fff"
+            },
+            ".mbr-article P": {
+              "text-align": "center",
+              "font-size": "18px"
             }
           },
           "_params": {
@@ -163,7 +167,7 @@
             "overlayOpacity": 0.2
           },
           "title": "ELife Nail Spa <br>Greenville SC",
-          "text": "<p>Wynn Nail Bar beleives that healt is safety</p>",
+          "text": "<p>Wynn Nail Bar beleives that healt is safety</p><p><br></p><p>Hours\n of Operations</p><p>Mon\t10:00 am - 7:00 pm\t\n</p><p>Tue\t10:00 am - 7:00 pm\t\n</p><p>Wed\t10:00 am - 7:00 pm\t\n</p><p>Thu\t10:00 am - 7:00 pm</p><p>Fri\t10:00 am - 7:00 pm\t\n</p><p>Sat\t10:00 am - 7:00 pm\t\n</p><p>Sun\t12:00 pm - 5:00 pm&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"

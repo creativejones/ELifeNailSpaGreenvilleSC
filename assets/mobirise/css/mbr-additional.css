@@ -27,6 +27,10 @@
 #content5-8 .mbr-article {
   color: #fff;
 }
+#content5-8 .mbr-article P {
+  text-align: center;
+  font-size: 18px;
+}
 #contacts2-1 B {
   color: #ffffff;
 }
